@@ -1,0 +1,17 @@
+{
+  "necromancer.laugh": {
+    "sounds": [
+      "necromancermod:necromancer/laugh_1",
+      "necromancermod:necromancer/laugh_2"
+    ]
+  },
+  "necromancer.orb_cast": {
+    "sounds": [ "necromancermod:necromancer/orb_cast" ]
+  },
+  "necromancer.minion_summoned": {
+    "sounds": [ "necromancermod:necromancer/minion_summoned" ]
+  },
+  "necromancer.summon_cast": {
+    "sounds": [ "necromancermod:necromancer/summon_cast" ]
+  }
+}
